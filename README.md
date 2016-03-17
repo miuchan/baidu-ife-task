@@ -2,3 +2,8 @@
 ## Demo
 - [任务一：零基础HTML编码](https://miuchan.github.io/demo/baidu-ife-task/task_1_1_1/index.html)
 - [任务二：零基础HTML及CSS编码（一）](https://miuchan.github.io/demo/baidu-ife-task/task_1_2_1/index.html)
+- [任务三：三栏式布局](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1)
+  0. [flexbox](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/0/index.html)
+  1. [左边左浮动右边右浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/1/index.html)
+  2. [全部左浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/2/index.html)
+  3. [绝对定位](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/3/index.html)

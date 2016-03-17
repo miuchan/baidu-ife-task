@@ -7,3 +7,4 @@
   1. [左边左浮动右边右浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/1/index.html)
   2. [全部左浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/2/index.html)
   3. [绝对定位](https://miuchan.github.io/demo/baidu-ife-task/task_1_3_1/3/index.html)
+- [任务四：定位和居中问题](https://miuchan.github.io/demo/baidu-ife-task/task_1_4_1/index.html)

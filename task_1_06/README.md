@@ -23,6 +23,8 @@
 - 页面中的各字体大小，内外边距等可参看 标注图（[点击查看](task_1_6_3.jpg)）
 - 页面宽度固定（定宽）
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_06/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML，CSS代码编写，不需要写JavaScript

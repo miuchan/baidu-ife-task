@@ -23,6 +23,13 @@
 - 使用 HTML 与 CSS 按照 示例图（[点击查看](task_1_3-sample.png)） 实现三栏式布局。
 - 左右两栏宽度固定，中间一栏根据父元素宽度填充满，最外面的框应理解为浏览器。背景色为 #eee 区域的高度取决于三个子元素中最高的高度。
 
+### Demo
+0. [flexbox](https://miuchan.github.io/demo/baidu-ife-task/task_1_03/0/index.html)
+1. [左边左浮动右边右浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_03/1/index.html)
+2. [全部左浮动](https://miuchan.github.io/demo/baidu-ife-task/task_1_03/2/index.html)
+3. [绝对定位](https://miuchan.github.io/demo/baidu-ife-task/task_1_03/3/index.html)
+
+
 ### 任务注意事项
 
 - 尝试 position 和 float 的效果，思考它们的异同和应用场景。

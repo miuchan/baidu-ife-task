@@ -27,6 +27,8 @@
 
 - 基于第一个任务“零基础HTML编码”的代码，参考 示例图（[点击查看](task_1_2-sample.jpg))，在步骤一的代码基础上增加CSS样式代码的编写
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_02/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML代码编写，不需要写CSS

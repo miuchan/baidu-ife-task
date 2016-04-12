@@ -22,6 +22,8 @@
 - 实现如 示例图（[点击打开](task_1_4-sample.png)） 的效果
 - 灰色元素水平垂直居中，有两个四分之一圆位于其左上角和右下角。
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_04/index.html)
+
 ### 任务注意事项
 
 - 思考不同情况下（如灰色高度是根据内容动态变化的）水平垂直居中的解决方案。

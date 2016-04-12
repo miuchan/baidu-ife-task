@@ -31,6 +31,8 @@
 - 左侧的各个模块里面的内容宽度跟随左侧整体宽度同步自适应变化
 - 10张图片需要永远都完整展现，所以会随着宽度变窄，从两行变成三行甚至更多，也有可能随着宽度变宽，变成一行
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_05/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML，CSS代码编写，不需要写JavaScript

@@ -23,6 +23,8 @@
 
 - 参考示例图（[点击查看](task_1_1-sample.jpg)），完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_01/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML代码编写，不需要写CSS

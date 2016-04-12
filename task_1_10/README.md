@@ -20,6 +20,8 @@
 
 - 需要实现的效果如效果图（[点击打开](task_1_10-sample.png)）所示，调整浏览器宽度查看响应式效果，红色的文字是说明，不需要写在 HTML 中。
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_10/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML，CSS代码编写，不需要写JavaScript

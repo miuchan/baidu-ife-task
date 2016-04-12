@@ -22,6 +22,8 @@
 - 通过HTML及CSS实现设计稿 [设计稿PSD文件（点击下载）](task_1_9_1.psd)，效果如 效果图（[点击打开](task_1_9-sample.jpg)）
 - 整个页面内容宽度固定，但头部的蓝色导航和浏览器宽度保持一致
 
+### [Demo](https://miuchan.github.io/demo/baidu-ife-task/task_1_09/index.html)
+
 ### 任务注意事项
 
 - 只需要完成HTML，CSS代码编写，不需要写JavaScript

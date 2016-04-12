@@ -132,7 +132,7 @@ function renderChart() {
                     color = getColor(nowData[data][week]);
 
                     if (nowData[data].hasOwnProperty(week)) {
-                        var height = 500 * nowData[data][week] / 1200;
+                        var height = (500 * nowData[data][week] / 1200).toFixed(2);
                         column = document.createElement("div");
                         column.setAttribute("style", "width:" + width + ";height:" +
                             height + "px;background-color:" + color);
@@ -140,7 +140,7 @@ function renderChart() {
                     }
                 }
             } else {
-                var height = 600 * nowData[data] / 1200;
+                var height = (600 * nowData[data] / 1200).toFixed(2);
                 color = getColor(nowData[data]);
                 column = document.createElement("div");
                 column.setAttribute("style", "width:" + width + ";height:" +

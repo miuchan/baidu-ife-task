@@ -24,7 +24,7 @@ JavaScript初学者
 - 基于任务18
 - 限制输入的数字在10-100
 - 队列元素数量最多限制为60个，当超过60个时，添加元素时alert出提示
-- 队列展现方式变化如图，直接用高度表示数字大小
+- 队列展现方式变化[如图](task_2_19_1.jpg)，直接用高度表示数字大小
 - 实现一个简单的排序功能，如冒泡排序（不限制具体算法），用可视化的方法表达出来，参考见下方参考资料
 - 点击"右侧出"，读取并删除队列又侧第一个元素，并弹窗显示元素中数值；
 
@@ -34,8 +34,8 @@ JavaScript初学者
 - 请注意代码风格的整齐、优雅
 - 代码中含有必要的注释
 - 示例图仅为参考，不需要完全一致
+- 具体算法及可视化的形式不做特别限制，只要求能够展现出算法的过程
 - 建议不使用任何第三方库、框架
-- 示例代码仅为示例，可以直接使用，也可以完全自己重写
 
 ### 任务协作建议
 
@@ -48,3 +48,4 @@ JavaScript初学者
 
 - [JavaScript入门篇](http://www.imooc.com/view/36)
 - [MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+- [视频: 15种排序算法可视化展示](http://v.youku.com/v_show/id_XNTM1NTQxMDMy.html http://v.youku.com/v_show/id_XNjIwNTEzMTA0.html?from=y1.2-1-176.3.3-2.1-1-1-2-0)

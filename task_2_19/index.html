@@ -4,49 +4,49 @@
 <head>
     <meta charset="utf-8">
     <title>IFE JavaScript Task 01</title>
+    <style>
+    #options {
+        width: 550px;
+        text-align: center;
+        margin: 20px auto;
+    }
+
+    #chart {
+        width: 100%;
+        max-width: 1000px;
+        height: 450px;
+        margin: 20px auto;
+        padding: 20px;
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-end;
+        border: 1px solid #aaa;
+    }
+
+    #chart div {
+        font-size: 20px;
+        padding: 5px;
+    }
+
+    </style>
 </head>
 
 <body>
-    <h3>污染城市列表</h3>
-    <ul id="aqi-list">
-        <!--
-    <li>第一名：福州（样例），10</li>
-    <li>第二名：福州（样例），10</li> -->
-    </ul>
-    <script type="text/javascript">
-    var aqiData = [
-        ["北京", 90],
-        ["上海", 50],
-        ["福州", 10],
-        ["广州", 50],
-        ["成都", 90],
-        ["西安", 100]
-    ];
+    <div id="wrap">
+        <div id="options">
+            <input id="input" type="text">
+            <button id="left-in" class="opt in">左侧入</button>
+            <button id="right-in" class="opt in">右侧入</button>
+            <button id="left-out" class="opt out">左侧出</button>
+            <button id="right-out" class="opt out">右侧出</button>
+            <button id="gen-data" class="opt">随机生成</button>
+            <button id="sort" class="opt">排序</button>
+        </div>
 
-    (function() {
-
-        /*
-        在注释下方编写代码
-        遍历读取aqiData中各个城市的数据
-        将空气质量指数大于60的城市显示到aqi-list的列表中
-        */
-
-        var aiqList = document.getElementById('aqi-list');
-        aqiData = aqiData.sort(function(a, b) {
-            return b[1] - a[1];
-        })
-        for (i = 0; i < aqiData.length; i++) {
-            console.log(aqiData[i]);
-            if (aqiData[i][1] >= 60) {
-                var li = document.createElement('li');
-                var text = document.createTextNode('第' + (i + 1) + '名：' + aqiData[i][0] + '，' + aqiData[i][1]);
-                li.appendChild(text);
-                aiqList.appendChild(li);
-            }
-        }
-
-    })();
-    </script>
+        <div id="chart">
+        </div>
+    </div>
+    <script src="task.js"></script>
 </body>
 
 </html>

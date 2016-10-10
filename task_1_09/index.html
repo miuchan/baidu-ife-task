@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>task_1_9</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header>
+        <a class="logo"><img src="images/logo.png" alt="logo"></a>
+        <a href="#" class="login">登录</a>
+        <div class="header-search">
+            <form action="haha">
+                <button class="header-search-secondmit"></button>
+                <input type="text" class="header-search-imput">
+            </form>
+        </div>
+    </header>
+    <section class="side-nav">
+        <div class="user-info">
+            <div class="user-head">
+                <div class="user-avatar"><img src="images/avatar.jpg" alt="avatar"></div>
+                <p class="user-name">ABC123</p>
+            </div>
+            <div class="user-stats">
+                <a href="#" class="user-like"><strong>110</strong><span>收藏</span></a>
+                <a href="#" class="user-fans"><strong>313</strong><span>粉丝</span></a>
+            </div>
+        </div>
+        <ul class="nav-list">
+            <li class="list-active">
+                <a href="#" class="list-header list-report">个人报表</a>
+                <ul class="second-nav-list">
+                    <li class="folder">
+                        <a href="#" class="list-folder">文件一</a>
+                        <ul class="third-nav-list">
+                            <li>文档一</li>
+                            <li>文档二</li>
+                        </ul>
+                    </li>
+                    <li class=" folder folder-open list-active">
+                        <a href="#" class="list-folder list-folder-active">文件二</a>
+                        <ul class="third-nav-list">
+                            <li class="list-doc list-doc-active"><a href="#">文档一</a></li>
+                            <li class="list-doc"><a href="#">文档二</a></li>
+                        </ul>
+                    </li>
+                    <li class="folder">
+                        <a href="#" class="list-folder">文件一</a>
+                        <ul class="third-nav-list">
+                            <li>文档一</li>
+                            <li>文档二</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="list-header list-like">个人收藏</a>
+                <ul class="second-nav-list">
+                    <li>文件一</li>
+                    <li>文件二</li>
+                    <li>文件三</li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="list-header list-share">我的分享</a>
+                <ul class="second-nav-list">
+                    <li>文件一</li>
+                    <li>文件二</li>
+                    <li>文件三</li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="list-header list-photos">图库</a>
+                <ul class="second-nav-list">
+                    <li>文件一</li>
+                    <li>文件二</li>
+                    <li>文件三</li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="list-header list-grow">成长记录</a>
+                <ul class="second-nav-list">
+                    <li>文件一</li>
+                    <li>文件二</li>
+                    <li>文件三</li>
+                </ul>
+            </li>
+            <li>
+                <a href="#" class="list-header list-account">账户信息</a>
+                <ul class="second-nav-list">
+                    <li>文件一</li>
+                    <li>文件二</li>
+                    <li>文件三</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+    <main>
+        <ol class="bread-crumb">
+            <li><a href="#">C站</a></li>
+            <li><a href="#">个人报表</a></li>
+            <li><a href="#">文件一</a></li>
+            <li><a href="#">文档一</a></li>
+        </ol>
+        <div class="container">
+            <div class="search clearfix">
+                <div class="query-item search-col">
+                    <label for="query-item">查询项</label>
+                    <select name="query-item" id="query-item">
+                        <option value="yiyi">第一项</option>
+                        <option value="erer">第二项</option>
+                    </select>
+                </div>
+                <div class="trade search-col">
+                    <div class="input-group">
+                        <label for="buyer">买方</label>
+                        <select name="buyer" id="buyer">
+                            <option value="aa">小A</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="saler">卖方</label>
+                        <select name="saler" id="saler">
+                            <option value="cc">小C</option>
+                        </select>
+                    </div>
+                    <button class="exchange-btn"></button>
+                </div>
+                <div class="detail search-col">
+                    <div class="input-group">
+                        <label for="date">日期</label>
+                        <input type="text" value="2016-04-1">
+                        <label for="time-cost">总耗时</label>
+                        <select name="time-cost" id="time-cost">
+                            <option value="haha">哈哈</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="people-count">人数</label>
+                        <select name="people-count" id="people-count">
+                            <option value="10">10人</option>
+                        </select>
+                        <label for="deal-item">成交项</label>
+                        <select name="deal-item" class="deal-item">
+                            <option value="10">10项</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="search-col">
+                    <button class="search-btn" type="submit">搜索</button>
+                </div>
+            </div>
+            <div class="price">
+                <a href="#" class="arrow arrow-pre"></a>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <div class="price-at-time">
+                    <p>10:00 am</p>
+                    <p>¥<span>1200</span></p>
+                </div>
+                <a href="#" class="arrow arrow-next"></a>
+                <div class="history">
+                    <img src="images/history.png" alt="history">
+                    <p>历史查询</p>
+                </div>
+            </div>
+            <div class="statistics">
+                <h4 class="statistics-heading">2016年4月份统计</h4>
+                <div class="statistics-body">
+                    <div class="statistics-item">
+                        <div class="statistics-count">
+                            <strong>133311</strong><span>成交量</span>
+                        </div>
+                    </div>
+                    <div class="statistics-item">
+                        <div class="statistics-count">
+                            <strong>133311</strong><span>成交量</span>
+                        </div>
+                    </div>
+                    <div class="statistics-item">
+                        <div class="statistics-count">
+                            <strong>133311</strong><span>成交量</span>
+                        </div>
+                    </div>
+                    <div class="statistics-item">
+                        <div class="statistics-count">
+                            <strong>133311</strong><span>成交量</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="list-group">
+                <h4 class="group-heading">第一组项目</h4>
+                <div class="group-body">
+                </div>
+            </div>
+            <div class="list-group">
+                <h4 class="group-heading">第一组项目</h4>
+                <div class="group-body">
+                </div>
+            </div>
+            <div class="list-group">
+                <h4 class="group-heading">第一组项目</h4>
+                <div class="group-body">
+                </div>
+            </div>
+            <div class="list-group">
+                <h4 class="group-heading">第一组项目</h4>
+                <div class="group-body">
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>

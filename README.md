@@ -10,7 +10,10 @@
 - [任务六：通过HTML及CSS模拟报纸排版](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_06/)
 - [任务七：实现常见的技术产品官网的页面架构及样式布局](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_07/)
 - [任务八：响应式网格（栅格化）布局](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_08/)
+- [任务九：使用HTML/CSS实现一个复杂页面](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_09/)
 - [任务十：Flexbox 布局练习](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_10/)
+- [任务十一：移动Web页面布局实践](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_11/)
+- [任务十二：学习CSS 3的新特性](https://github.com/miuchan/baidu-ife-task/tree/master/task_1_12/)
 
 ### 第二阶段任务
 
@@ -22,4 +25,19 @@
 - [任务十八：基础JavaScript练习（一）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_18/)
 - [任务十九：基础JavaScript练习（二）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_19/)
 - [任务二十：基础JavaScript练习（三）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_20/)
-
+- [任务二十一：基础JavaScript练习（四）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_21/)
+- [任务二十二：JavaScript和树（一）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_22/)
+- [任务二十三：JavaScript和树（二）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_23/)
+- [任务二十四：JavaScript和树（三）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_24/)
+- [任务二十五：JavaScript和树（四）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_25/)
+- [任务二十六：行星与飞船（一）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_26/)
+- [任务二十七：行星与飞船（二）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_27/)
+- [任务二十八：行星与飞船（三）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_28/)
+- [任务二十九：表单（一）单个表单项的检验](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_29/)
+- [任务三十：表单（二）多个表单项的动态校验](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_30/)
+- [任务三十一：表单（三）联动](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_31/)
+- [任务三十二：表单（四）实现表单自动生成工厂](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_32/)
+- [任务三十三：听指令的小方块（一）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_33/)
+- [任务三十四：听指令的小方块（二）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_34/)
+- [任务三十五：听指令的小方块（三）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_35/)
+- [任务三十六：听指令的小方块（四）](https://github.com/miuchan/baidu-ife-task/tree/master/task_2_36/)
